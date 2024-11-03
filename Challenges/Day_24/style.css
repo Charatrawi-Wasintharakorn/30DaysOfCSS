@@ -10,7 +10,7 @@ body{
 .wrapper{
   height: 400px;
   width: 400px;
-  background-image: url(https://image.freepik.com/vetores-gratis/coracao-de-dedo-gradiente_23-2148639379.jpg);
+  background-image: url(https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2022%2F05%2Fblackpink-rolling-stone-1.jpeg?q=90&w=1400&cbr=1&fit=max);
   background-size: cover;
   background-position: center center;
   animation: animate 15s ease 0s infinite;
@@ -23,15 +23,15 @@ body{
 
 @keyframes animate{
   25%{
-    background-image: url(https://img.freepik.com/vetores-gratis/mao-desenhada-ilustracao-de-coracao-de-dedo_23-2148625445.jpg?size=338&ext=jpg)
+    background-image: url(https://img9.yna.co.kr/etc/inner/EN/2024/06/19/AEN20240619002800315_03_i_P4.jpg)
   }
   50%{
-    background-image: url(https://image.freepik.com/vetores-gratis/conceito-de-coracao-dedo-gradiente_23-2148624158.jpg)
+    background-image: url(https://rukminim2.flixcart.com/image/850/1000/kuyf8nk0/poster/n/l/y/medium-rose-blackpink-blackpink-rose-kpop-on-the-ground-park-original-imag7ys9fsw8cmwy.jpeg?q=90&crop=false)
   }
   75%{
-    background-image: url(https://image.freepik.com/vetores-gratis/coracao-de-mao-desenhada-dedo_23-2148620370.jpg)
+    background-image: url(https://static.wikia.nocookie.net/kpop/images/0/0b/Jennie_Mantra_concept_photo_3.png/revision/latest?cb=20241011103533)
   }
   100%{
-    background-image: url(https://image.freepik.com/vetores-gratis/coracao-de-dedo-ilustrado-gradiente_23-2148617080.jpg)
+    background-image: url(https://f.ptcdn.info/610/079/000/rot58l26ivyjErmICKF1d-o.jpg)
   }
 }
